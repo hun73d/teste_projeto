@@ -1,0 +1,14 @@
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/views/reviewslist/ReviewEditorDialog.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/backend/Categoria.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/backend/StaticData.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/MainLayout.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/common/ConfirmationDialog.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/encoders/LongToStringEncoder.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/views/reviewslist/ReviewsList.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/backend/CategoryService.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/views/categorieslist/CategoriesList.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/common/AbstractEditorDialog.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/backend/Review.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/views/categorieslist/CategoryEditorDialog.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/backend/ReviewService.java
+/home/hugo/Área de Trabalho/gibmoni/src/main/java/com/vaadin/starter/beveragebuddy/ui/encoders/LocalDateToStringEncoder.java
